@@ -1,2 +1,1 @@
-# s0urce.io
-S0urce.io hack
+Copy and paste into console of website
